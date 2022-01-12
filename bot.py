@@ -7,5 +7,4 @@ client = discord.Client()
 async def on_ready():
     print("aad")
 
-
-client.run(os.environ["DISCORD_TOKEN"])
+client.run("OTMwODgyODc0NDY1NDg0ODEw.Yd8WPA.46WFrThlHl0T6Fc66JtxfuJ1AmE")
