@@ -5,6 +5,7 @@ client = discord.Client()
 
 @client.event
 async def on_ready():
-    print("asd")
+    print("aad")
+
 
 client.run(os.environ["DISCORD_TOKEN"])
